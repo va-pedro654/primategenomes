@@ -1,5 +1,5 @@
-# monkey_proteins
-Coding with all analyses performed in a project that aimed to study monkey proteins in a large number of genomes. 
+# primate_proteins
+Coding with all analyses performed in a project that aimed to study primate proteins in a large number of genomes. 
 
 Firstly, I downloaded all required genomes (listed on file genomes_download_links.csv) using their curl links. To see the full script, go to
 ## Script 01.Downloading_ENA_genomes
